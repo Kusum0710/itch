@@ -1,0 +1,6 @@
+{
+  "name": "Itch",
+  "description": "AI-powered experience discovery & recommendation engine for anime, manga, books, and games that discovers the exact experience you crave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
